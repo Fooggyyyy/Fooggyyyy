@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AutoMapper-1C4E80?style=for-the-badge&logo=dot-net&logoColor=white" alt="AutoMapper" />
+  <img src="https://img.shields.io/badge/Fluent_Validation-2C7AC3?style=for-the-badge&logo=dot-net&logoColor=white" alt="FluentValidation" />
+  <img src="https://img.shields.io/badge/xUnit-6D6D6D?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit" />
 </p>
 
 ## 📊 Статистика
