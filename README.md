@@ -28,13 +28,8 @@
   <img src="https://img.shields.io/badge/xUnit-6D6D6D?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit" />
 </p>
 
-## 📊 Статистика
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fooggyyyy&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fooggyyyy&layout=compact&theme=radical)
-
 ## 📫 Как связаться со мной
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/@fggerkkk)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iriwisiri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iriwisiri@gmail.com)
+
