@@ -28,9 +28,6 @@
   <img src="https://img.shields.io/badge/xUnit-6D6D6D?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit" />
 </p>
 
-### Статистика
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fooggyyyy&layout=compact)
-
 ## 📫 Как связаться со мной
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/@fggerkkk)
